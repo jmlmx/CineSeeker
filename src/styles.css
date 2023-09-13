@@ -1,0 +1,11 @@
+#root {
+  height: 100%;
+}
+
+.App {
+  display: block;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: grey;
+  border-radius: 1vmin;
+}
